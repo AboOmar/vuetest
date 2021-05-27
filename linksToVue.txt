@@ -1,0 +1,14 @@
+https://riptutorial.com/vue-js
+
+https://www.loggly.com/blog/best-practices-for-client-side-logging-and-error-handling-in-react/
+
+https://v1.vuejs.org/guide/application.html
+
+https://github.com/pagekit/vue-resource     (Http calls in vuejs)
+https://github.com/vuejs/vue-router
+
+https://medium.com/js-dojo/architect-a-large-scale-vue-js-application-eaf90dc1da05
+https://blog.bitsrc.io/4-best-practices-for-large-scale-vue-js-projects-9a533450bdb2
+
+https://www.clariontech.com/blog/mvc-vs-flux-vs-redux-the-real-differences
+
