@@ -1,0 +1,10 @@
+gir flow : https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
+https://medium.com/edureka/git-reflog-dc05158c1217
+
+https://www.dotnettricks.com/learn/devops/introduction-to-azure-devops
+
+https://www.gitkraken.com/
+
+- search for how to view git flow deleted branches
+- search for complete pull request tutorial on AzureDevOps
