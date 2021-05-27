@@ -12,3 +12,8 @@ https://blog.bitsrc.io/4-best-practices-for-large-scale-vue-js-projects-9a533450
 
 https://www.clariontech.com/blog/mvc-vs-flux-vs-redux-the-real-differences
 
+https://v3.vuejs.org/guide/ssr.html#the-complete-ssr-guide
+https://v3.vuejs.org/style-guide/#avoid-v-if-with-v-for-essential
+https://v3.vuejs.org/guide/testing.html#choosing-your-framework-3
+
+
