@@ -1,0 +1,6 @@
+https://dev.to/rineshpk/blazor-server-crud-app-using-visual-studio-code-2b2g
+https://github.com/rineshpk/BlazorServerCRUD/tree/master
+
+https://docs.microsoft.com/en-us/aspnet/core/blazor/components/lifecycle?view=aspnetcore-3.1
+https://docs.microsoft.com/en-us/aspnet/core/blazor/components/event-handling?view=aspnetcore-3.1
+
