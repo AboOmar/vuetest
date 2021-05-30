@@ -1,6 +1,11 @@
+https://vuejs.org/v2/guide/state-management.html
+https://dev.to/georgehanson/building-vuejs-applications-with-typescript-1j2n
+https://www.georgehanson.co.uk/blog/building-vuejs-applications-with-typescript-part-two
+https://www.vuemastery.com/blog/getting-started-with-typescript-and-vuejs/
 https://riptutorial.com/vue-js
 
 https://www.loggly.com/blog/best-practices-for-client-side-logging-and-error-handling-in-react/
+
 
 https://v1.vuejs.org/guide/application.html
 
